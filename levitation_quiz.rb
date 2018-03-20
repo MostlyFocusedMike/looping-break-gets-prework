@@ -5,6 +5,7 @@ def levitation_quiz
   	ans = 'Wingardium Leviosa'
   	if ans == 'Wingardium Leviosa'
   	  puts 'You passed the quiz!'
+  	  break
   	end
 	end
 end
